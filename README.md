@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/979797?style=for-the-badge&logo=appveyor&logo=Unity&logoColor=000000"/></a>
+
+![Harang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonseo&show_icons=true&theme=cobalt)
