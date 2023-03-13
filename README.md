@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **yeonseo/yeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/979797?style=for-the-badge&logo=appveyor&logo=Unity&logoColor=000000"/></a>
 
-![Harang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonseo&show_icons=true&theme=cobalt)
+### 🏢 My job is ...
+<img src="https://img.shields.io/badge/Backend-263159?style=for-the-badge&logo=appveyor&logo=Backendless&logoColor=white"/>  <img src="https://img.shields.io/badge/Front-495579?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/MAYBE-EEEEEE?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Fullstack-251749?style=for-the-badge&logo=java&logoColor=white">
+
+
+### 🚀 I'm really into this these days.
+<p>I've been using them for two or three years.</p>
+
+<img src="https://img.shields.io/badge/UNITY-4D455D?style=for-the-badge&logo=appveyor&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/KOTLIN-E96479?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-F5E9CF?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-7DB9B6?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySql-F0A04B?style=for-the-badge&logo=java&logoColor=white">
+
+![Harang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonseo&show_icons=true&theme=rose_pine)
