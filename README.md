@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ### 🚀 I'm really into this these days.
 <p>I've been using them for two or three years.</p>
 
-<img src="https://img.shields.io/badge/UNITY-4D455D?style=for-the-badge&logo=appveyor&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/KOTLIN-E96479?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-F5E9CF?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-7DB9B6?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySql-F0A04B?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/KOTLIN-E96479?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-F5E9CF?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-7DB9B6?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-F0A04B?style=for-the-badge&logo=java&logoColor=white"> ... + <img src="https://img.shields.io/badge/UNITY-4D455D?style=for-the-badge&logo=appveyor&logo=Unity&logoColor=white"/>  
 
 ![Harang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonseo&show_icons=true&theme=rose_pine)
